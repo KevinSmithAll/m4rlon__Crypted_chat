@@ -2,6 +2,7 @@ import socket
 from threading import Thread
 import rsa
 from cryptography.fernet import Fernet
+#
 
 
 class ChatClient:
